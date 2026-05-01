@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-hebcen.1hko.com/sitemap.xml
